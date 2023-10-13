@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165508752367",
+    "project_id": "movieslot-24eea",
+    "storage_bucket": "movieslot-24eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165508752367:android:1d2d0b31626914a1690c1a",
+        "android_client_info": {
+          "package_name": "com.example.movielot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165508752367-js2jedts3o9eg98299bth0g4d1cp5lm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQSa9tFU3MbJlVnbuRATvN_EyOTVj0Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165508752367-js2jedts3o9eg98299bth0g4d1cp5lm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
